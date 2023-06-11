@@ -1,1 +1,2 @@
-Mr code in the making
+#!/bin/bash
+echo "Hello Mr Masara!"
